@@ -578,7 +578,7 @@ body::before{content:'';position:fixed;inset:0;background-image:url("data:image/
     <p class="h-desc" id="hD">CS Graduate (2025) from SRMIST, Chennai. I build production-ready web applications — real-time dashboards, AI chatbots, and low-level systems — with Next.js, FastAPI & PostgreSQL.</p>
     <div class="h-cta" id="hC">
       <a href="#projects" class="btn-p">View My Work →</a>
-      <a href="/cdn-cgi/l/email-protection#fb888992899a96899a82929f92c9c3bb9c969a9297d5989496" class="btn-g">Get In Touch</a>
+      <a href="javascript:void(0)" onclick="openMail()" class="btn-g">Get In Touch</a>
     </div>
   </div>
 </section>
@@ -741,7 +741,7 @@ body::before{content:'';position:fixed;inset:0;background-image:url("data:image/
     <h2 class="ct-h r">Let's build<br><span>something.</span></h2>
     <p class="ct-sub r">I'm actively looking for SDE / Full Stack Developer roles in India. If you're building something interesting, I'd love to hear from you.</p>
     <div class="ct-links r">
-      <a href="/cdn-cgi/l/email-protection#87f4f5eef5e6eaf5e6feeee3eeb5bfc7e0eae6eeeba9e4e8ea" class="ct-btn"><span class="__cf_email__" data-cfemail="b8cbcad1cad9d5cad9c1d1dcd18a80f8dfd5d9d1d496dbd7d5">[email&#160;protected]</span> ↗</a>
+      <a href="javascript:void(0)" onclick="openMail()" class="ct-btn" id="emailBtn">sriramrayidi28@gmail.com ↗</a>
       <div class="ct-socials">
         <a href="https://github.com/Sriram-448" target="_blank" class="ct-social">⌥ GitHub</a>
         <a href="https://www.linkedin.com/in/rayidi-sriram-70b529233/" target="_blank" class="ct-social">in LinkedIn</a>
@@ -786,6 +786,13 @@ setTimeout(dismissLoader, 3200);
 setTimeout(dismissLoader, 5000);
 document.getElementById('loader').addEventListener('click', dismissLoader);
 
+
+// Email protection bypass
+function openMail() {
+  var u = 'sriramrayidi28';
+  var d = 'gmail.com';
+  window.location.href = 'mailto:' + u + '@' + d;
+}
 // Scroll progress
 var prog = document.getElementById('prog');
 window.addEventListener('scroll', function() {
