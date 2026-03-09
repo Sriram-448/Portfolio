@@ -2,7 +2,7 @@
 
 > Personal portfolio website built with vanilla HTML, CSS & JavaScript.
 
-[![Live Demo](https://img.shields.io/badge/Live-Visit%20Portfolio-00ff78?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-nine-kappa-jah38n4l3y.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Visit%20Portfolio-00ff78?style=for-the-badge&logo=vercel&logoColor=black)](https://sriramrayidi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sriram--448-181717?style=for-the-badge&logo=github)](https://github.com/Sriram-448)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayidi%20Sriram-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rayidi-sriram-70b529233/)
 
