@@ -10,12 +10,12 @@
 
 ## ✨ Features
 
-- **Cinematic loader** — orbiting rings, hexagon logo, glitch animation
-- **Animated hero** — perspective mesh grid, staggered reveal
-- **Project showcase** — featured cards with real screenshots
-- **Fully responsive** — mobile, tablet & desktop
-- **Scroll reveal animations** — smooth section transitions
-- **Zero dependencies** — pure HTML/CSS/JS, no frameworks
+- **Cinematic loader** - orbiting rings, hexagon logo, glitch animation
+- **Animated hero** - perspective mesh grid, staggered reveal
+- **Project showcase** - featured cards with real screenshots
+- **Fully responsive** - mobile, tablet & desktop
+- **Scroll reveal animations** - smooth section transitions
+- **Zero dependencies** - pure HTML/CSS/JS, no frameworks
 
 ---
 
@@ -51,7 +51,7 @@ cd portfolio
 open index.html
 ```
 
-No build step needed — just open `index.html` in any browser.
+No build step needed - just open `index.html` in any browser.
 
 ---
 
